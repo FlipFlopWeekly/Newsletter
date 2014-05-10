@@ -1,4 +1,4 @@
-- Flip
+## Flip
 
 Un boulet, deux boulets
   http://www.youtube.com/watch?v=W6DmHGYy_xk
@@ -11,7 +11,7 @@ C’est tendance, c’est vegan.
 We are humans
   http://www.youtube.com/watch?v=p_VuLVQVBFA&feature=share
 
-- Flop
+## Flop
 
 Drug VS Alcohol
   http://www.youtube.com/watch?v=SHpmo57m1BA

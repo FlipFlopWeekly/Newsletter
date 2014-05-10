@@ -1,4 +1,4 @@
-- Flip
+## Flip
 
 Qui est ce qu’on appelle ? C’est supercat !
     http://9gag.com/gag/ay59GrX
@@ -11,7 +11,7 @@ Faiiil !
 Trololo
     http://www.youtube.com/watch?v=bZW2oQMyJBE 
 
-- Flop
+## Flop
 
 Flop Anthem !
     http://www.youtube.com/watch?v=tBJNYdHPcDE

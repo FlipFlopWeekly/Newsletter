@@ -1,4 +1,4 @@
-- Flip
+## Flip
 
 The black hole 
   http://www.youtube.com/watch?v=P5_Msrdg3Hk
@@ -12,7 +12,7 @@ Girls gameuses, faut pas faire chier mémé
   http://vimeo.com/38247727  
 
 
-- Flop
+## Flop
 
 Yes he can… and so do I ! 
   http://www.youtube.com/watch?v=WSRq5HmJsvw

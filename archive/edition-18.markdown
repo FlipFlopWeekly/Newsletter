@@ -1,4 +1,4 @@
-- Flip
+## Flip
 
 Le festival d'Annecy c'est cool
     http://www.youtube.com/watch?v=wPeMQhR6iPg
@@ -15,7 +15,7 @@ Money - (SSII edition)
 2Cellos
     https://www.youtube.com/watch?v=uT3SBzmDxGk   
 
-- Flop
+## Flop
 
 The Poodle Trainer
     http://vimeo.com/59588972

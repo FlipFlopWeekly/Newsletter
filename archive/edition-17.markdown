@@ -1,4 +1,4 @@
-- Flip
+## Flip
 
 What is love
     http://www.pown.it/1252
@@ -11,7 +11,7 @@ Le premier TED talk sur FlipFlop
 Ice JJ Fish (menu maxi best of w/ Mc Fish potatoes)
     http://www.youtube.com/watch?v=EIAUSnqBAHE
 
-- Flop
+## Flop
 
 L'agora des savoirs
     http://www.dailymotion.com/video/x19u50y_ads-thomas-piketty-i-comme-inegalites_tech

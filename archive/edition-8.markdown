@@ -1,4 +1,4 @@
-- Flip
+## Flip
 
 Soft Cell – Tainted Love 
     https://www.youtube.com/watch?v=gBWrLhgiX7
@@ -11,7 +11,7 @@ Chris Marker FTW
 Epic Interview (full disclosure : pour ceux qui connaissent Kevin Smith, et qui parlent anglais ou bien lisent espagnol) 
     https://www.youtube.com/watch?v=vgYhLIThTvk   
 
-- Flop
+## Flop
 
 Calvin Harris ?
     http://www.pown.it/280

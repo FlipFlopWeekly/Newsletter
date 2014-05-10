@@ -1,4 +1,4 @@
-- Flip
+## Flip
 
 Major lazer (Quoi du ML ? Mais non… Et pourtant J )
     http://www.youtube.com/watch?v=OI3shBXlqsw
@@ -11,7 +11,7 @@ Attention à voir seulement si vous avez vu Gravity J
 Eminem is back !
     http://www.youtube.com/watch?v=ZDXXi19_7iE 
 
-- Flop
+## Flop
 
 Petit coup de gueule contre cette meeeerde !
     http://iletaitunepub.fr/2013/11/14/bistrips-le-phenomene-qui-envahit-votre-facebook/

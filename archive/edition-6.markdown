@@ -1,4 +1,4 @@
-- Flip
+## Flip
   
 Un flip léger pour commencer, Banksy, NY
   https://www.youtube.com/watch?v=FsF3HspQY6A
@@ -11,7 +11,7 @@ Dance of the Manwhore
 Sleepwalking – The Chain Gang
   http://www.youtube.com/watch?v=pt3PcA4UvPA
 
-- Flop
+## Flop
  
 Clairement un Flop ... désolé pour les fans.
   https://www.youtube.com/watch?v=YGyPaZ3DHm8
