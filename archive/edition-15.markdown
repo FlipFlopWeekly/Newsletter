@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  ""
-date:   2014-12-07 09:25:40
-categories: newsletter special
+title:  "FlipFlop Weekly #15 - Short Film Edition"
+date:   2014-01-06 11:20:45 +0100
+categories: newsletter special TCOL
 ---
+
+> Victor-Hugo Montaño !!! — Alioune
 
 ## Flip
 

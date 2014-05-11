@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  ""
-date:   2014-12-07 09:25:40
-categories: newsletter special
+title:  "FlipFlop Weekly #14"
+date:   2013-12-16 21:24:26 +0100
+categories: newsletter TCOL
 ---
+
+> Un tas de gravats déversé au hasard : le plus bel ordre du monde. — Héraclite
 
 ## Flip
 

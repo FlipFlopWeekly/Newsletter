@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  ""
-date:   2014-12-07 09:25:40
-categories: newsletter special
+title:  "FlipFlop Weekly #16 — Sans titre"
+date:   2014-01-27 11:51:06
+categories: newsletter special SCOR
 ---
+
+> Put a smiley on your face — M. S. N.
 
 ## Flip
 

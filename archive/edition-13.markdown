@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  ""
-date:   2014-12-07 09:25:40
-categories: newsletter special
+title:  "FlipFlop Weekly #13"
+date:   2013-12-13 14:44:54 +0100
+categories: newsletter SCOR
 ---
+
+> Ne soyez pas paraskévidékatriaphobique… — SCOR
 
 ## Flip
 

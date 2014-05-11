@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ""
-date:   2014-12-07 09:25:40
-categories: newsletter special
+title:  "FlipFlop Weekly #10"
+date:   2013-11-19 09:24:44 +0100
+categories: newsletter TCOL
 ---
 
 ## Flip

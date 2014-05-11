@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  ""
-date:   2014-12-07 09:25:40
-categories: newsletter special
+title:  "FlipFlop Weekly #17 — Sans titre"
+date:   2014-02-11 14:25:06
+categories: newsletter TCOL
 ---
+
+> Wizzz wizzz — M. S. N.
 
 ## Flip
 

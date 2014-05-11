@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  ""
-date:   2014-12-07 09:25:40
-categories: newsletter special
+title:  "FlipFlop Weekly #11"
+date:   2013-11-25 09:24:44 +0100
+categories: newsletter LSIM
 ---
+
+> Impossible n’est pas Français ! — Napoléon
 
 ## Flip
 

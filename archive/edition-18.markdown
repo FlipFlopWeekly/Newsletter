@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  ""
-date:   2014-12-07 09:25:40
-categories: newsletter special
+title:  "FlipFlop Weekly #18 - Uneven Edition"
+date:   2014-03-04 11:07:06
+categories: newsletter special TCOL
 ---
+
+> Personne ne lit plus cette Newsletter mec
 
 ## Flip
 
