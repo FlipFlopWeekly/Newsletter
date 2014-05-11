@@ -1,25 +1,15 @@
 ## Flip
-  
-Cet homme est fou :D
-  http://www.youtube.com/watch?v=bmImRsv0j-k&feature=c4-overview&list=UUsxMBRUkXRFAYwH2TLm4o0A
-Vous aviez aimé ? Il y’en a encore !
-  http://www.youtube.com/watch?v=A3PDXmYoF5U
-Mr Antoine !
-  http://www.youtube.com/watch?v=jDWqyNjLd8Q&feature=c4-overview-vl&list=PLmnpJZxBm1yb6cYGcuj1XQaSYcZSBlNwN
-GTA V lolilol
-  http://www.youtube.com/watch?v=wUOa450qGlk
-Bo Goss !
-  http://www.youtube.com/watch?v=aWRC1oklSDI 
+
+- [Cet homme est fou :D](http://www.youtube.com/watch?v=bmImRsv0j-k)
+- [Vous aviez aimé ? Il y’en a encore !](http://www.youtube.com/watch?v=A3PDXmYoF5U)
+- [Mr Antoine !](http://www.youtube.com/watch?v=jDWqyNjLd8Q)
+- [GTA V lolilol](http://www.youtube.com/watch?v=wUOa450qGlk)
+- [Bo Goss !](http://www.youtube.com/watch?v=aWRC1oklSDI)
 
 ## Flop
- 
-ANDI c’est pour toi J
-  http://www.youtube.com/watch?v=Nx5ycX1xntY&list=TL-NSYsSe_g1H3CpUO63UNNTkwqz6Ngy_2
-Charlie part II… 
-  http://www.youtube.com/watch?v=QFCSXr6qnv4
-Head shooooot !
-  http://www.youtube.com/watch?v=gxH379ZNxA0
-Gros fail J
-  http://lifeofastrangerwhostolemyphone.tumblr.com/
-Bon je n’avais pas de 5ème donc voilà !
-  http://www.youtube.com/watch?v=_GLEAmoEyEo
+
+- [ANDI c’est pour toi J](http://www.youtube.com/watch?v=Nx5ycX1xntY)
+- [Charlie part II…](http://www.youtube.com/watch?v=QFCSXr6qnv4)
+- [Head shooooot !](http://www.youtube.com/watch?v=gxH379ZNxA0)
+- [Gros fail J](http://lifeofastrangerwhostolemyphone.tumblr.com/)
+- [Bon je n’avais pas de 5ème donc voilà !](http://www.youtube.com/watch?v=_GLEAmoEyEo)
